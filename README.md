@@ -1,2 +1,3 @@
 # MiniProjects
 My First github repository of mini projects.
+Author-Ayushi Gaur
